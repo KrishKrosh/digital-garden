@@ -77,7 +77,7 @@ Teach in depth and mark easily. I can think of some who already do this. I will 
 
   An interesting idea would be to ask students what their goal program/university is, and mark on a relative scale that is proportional to its respective admission chances.
 
-  ![assets/uw-admissions.png]
+  <img src="/assets/uw-admissions.png"/>
 
 #### Some open questions/problems in education
 - Time is finite. It is very optimistic to want someone to learn everything, however depending on personal pacing, this isn't always possible within the 14 - 22 years of schooling that people go through.
