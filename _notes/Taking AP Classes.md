@@ -59,7 +59,7 @@ All of the cons aren't really even cons. If you would like my recommended strate
 
 ### The best strategy right now
 
-#### **Students**
+#### Students
 Take the classes with the best teachers. These are usually the AP classes. Only take the AP exams if you feel like it. It is **not** necessary to take an AP exam if you take an AP course.
 
 #### Teachers
