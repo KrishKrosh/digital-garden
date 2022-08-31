@@ -29,7 +29,7 @@ The majority of people considering higher order classes like advanced placement 
 
 It is perfectly rational to trade 2 years of lesser quality high school education for 4 years of higher quality university education and possible downstream benefits including status, wealth, or other humane desires.
 
-**There is any easy way to fix as for a teacher**: teach in depth and mark easily. I can think of some who already do this. I will leave it up to the teachers to decide if contributing to geographic grade inflation is worth it. In my opinion, it is. Another argument is that "going easy" isn't fair to the students because it is misrepresentative of the real world. In this case I would strongly question why the teacher thinks it is in the students best interest to be the primary bottleneck in their life.
+**There is any easy way to fix this as a teacher**: teach in depth and mark easily. I can think of some who already do this. I will leave it up to the teachers to decide if contributing to geographic grade inflation is worth it. In my opinion, it is. Another argument is that "going easy" isn't fair to the students because it is misrepresentative of the real world. In this case I would strongly question why the teacher thinks it is in the students best interest to be the primary bottleneck in their life.
 
 ### Take AP Classes!
 
@@ -57,7 +57,7 @@ Taking AP classes is a no-brainer. Here is a list of pros and cons of AP classes
 
 In depth education will always be more challenging, and thus more time consuming. Luckily in Canada, we treat the AP curriculum as an add-on to the regular curriculum. This means that course content is already split, and a student can decide whether or not indulge in the extra content. If the student isn't interested, who cares?
 
-A corollary "add-on" nature of Canadian AP classes is that Universities don't usually care about the AP mark. The way Westwood handles this is brilliant: any testing based off of the additional AP curriculum will count as an opportunity to increase a grade, never decrease it.
+A corollary of the "add-on" nature of Canadian AP classes is that Universities don't usually care about the AP mark. The way Westwood handles this is brilliant: any testing based off of the additional AP curriculum will count as an opportunity to increase a grade, never decrease it.
 
 **Section Conclusion**
 
