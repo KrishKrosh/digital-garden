@@ -1,6 +1,3 @@
----
----
-
 ### No code web automation (excel macros for the web)
 Web automation is one of the most tangible things you can automate, but as soon as you start writing code for it, you get hit with a bunch of issues:
 - robot detectors
@@ -71,6 +68,7 @@ Very easy with DALLE prolly
 
 ### gpt3 to figure out a better word
 - honestly this is really useful, i'll definitely make this
+- update I made this: [theperfectword.xyz](https://theperfectword.xyz)
 
 ### dalle to make gifs
 
