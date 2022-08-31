@@ -1,7 +1,4 @@
----
----
-
-Mr. Ahmed, my high school physics teacher, and one of my favourite teachers of all time [1] tagged 100 former students in a Facebook Post with the following question:
+Mr. Ahmed, my high school physics teacher, and one of my favourite teachers of all time tagged 100 former students in a Facebook Post with the following question:
 
 > I am sad to see students in high school focusing on the mark (percentage) rather than the quality of learning. A good number of students, for the sake of higher mark, are choosing not to challenge themselves by taking AP courses. Unfortunately, universities seems to encourage this.
 > 
@@ -21,7 +18,7 @@ Regardless, my thoughts will be pruned overtime, and that is no reason to concea
 ### Marks matter most
 In an ideal education system, the quality of learning (including breadth and depth) would be the north star metric focused on for students and teachers alike. Unfortunately, this is not the case.
 
-The majority of people considering higher order classes like advanced placement [will choose to go to university](https://colah.github.io/posts/2020-05-University/). And until we have a better way of testing domain intelligence of a student (see [digitalsocrates.xyz](https://digitalsocrates.xyz)), universities, especially in Canada, will continue to accept students primarily based on marks. Consequently, many ambitious students spend their 11th and 12th year of high school optimizing for the highest marks. This can take many forms, and is especially common amongst higher performing students [2]:
+The majority of people considering higher order classes like advanced placement [will choose to go to university](https://colah.github.io/posts/2020-05-University/). And until we have a better way of testing domain intelligence of a student (see [digitalsocrates.xyz](https://digitalsocrates.xyz)), universities, especially in Canada, will continue to accept students primarily based on marks. Consequently, many ambitious students spend their 11th and 12th year of high school optimizing for the highest marks. This can take many forms, and is especially common amongst higher performing students:
 - taking easier classes
 - memorizing patterns instead of thinking critically
 - changing public perspective to align more with that of your teacher (essentially sucking up)
