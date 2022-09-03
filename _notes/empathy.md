@@ -1,0 +1,1 @@
+Not to be confused with [[sympathy]]. Empathy is the understanding of one's situation due to having gone through a situation. Sympathy is the understanding of one's situation with no grounds to understand it by. Sympathy is much harder.
