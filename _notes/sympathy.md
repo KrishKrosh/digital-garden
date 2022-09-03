@@ -7,7 +7,8 @@ It is insanely difficult to purely sympathize with someone. Typically, people dr
 - family member passing away
 	- family member having illness
 		- seeing a family member in pain
-			- feeling pain or sorrow
+			- seeing a person close to you in pain
+				- feeling pain or sorrow yourself
 
 **The difficulty of sympathy is a function of how many abstractions need to be taken to compare to situations.**
 
