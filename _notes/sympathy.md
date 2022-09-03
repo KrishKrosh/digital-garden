@@ -10,7 +10,7 @@ It is insanely difficult to purely sympathize with someone. Typically, people dr
 			- seeing a person close to you in pain
 				- feeling pain or sorrow yourself
 
-**The difficulty of sympathy is a function of how many abstractions need to be taken to compare to situations.**
+**The difficulty of sympathy is a function of how many abstractions need to be taken to empathize.**
 
 In my life, mostly everyone regards me as unable to sympathize with people. This trait is probably drawn from my bubbly, [[The Beyblade Spirit | hopelessy optimistic ]] attitude. And they are mostly right--I have little patience for sadness, specifically inducing sadness into the lives of other people.
 
