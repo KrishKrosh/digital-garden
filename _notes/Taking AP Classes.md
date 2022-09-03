@@ -79,7 +79,7 @@ Teach in depth and mark easily. I can think of some who already do this. I will 
 
   <img src="/assets/uw-admissions.png"/>
 
-#### Some open questions/problems in education
+#### Some open questions/problems in [[education]]
 - Time is finite. It is very optimistic to want someone to learn everything, however depending on personal pacing, this isn't always possible within the 14 - 22 years of schooling that people go through.
 - Education never becomes hyper-personalized. Regardless of topic, every person has a unique learning environment in which they thrive depending on factors like speed/pacing, learning style, interest, etc.
 - What is the best way to test the general intelligence of a person? What about domain intelligence? We don't have an answer for this, but I'm keen on large language models being used here.
